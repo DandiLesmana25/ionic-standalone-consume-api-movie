@@ -1,0 +1,7 @@
+{
+  "name": "ion-standalone-consume-api-movie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
